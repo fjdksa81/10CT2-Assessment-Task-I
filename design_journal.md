@@ -15,3 +15,14 @@ The main target audience for the user design is GHS Students, and Former Student
 I will use Figma mainly for the prototyping and development of the App, suitable both for it's easy tools, prior knowledge to me, and ease of testing, allowing new builds to easily be pushed to testers. For specific graphics, I may use either Canva or paint.net, using school subscriptions to make use of familiar programs to work around the limitations of Figma.
 ### **Initial Brainstorms**
 ![Brainstorm](.\Images\greennneedle.png)
+
+Thematically, the history of the school plays a major role, as well as the region in general. Major elements that repeat over the mindmap are the stories from the school, and at least some interactability, personalising or making the experience more enticing.
+
+Feasability wise, Python has been overdone in my mind, and has poor user interface design, making the application more complex. Unity is troublesome at the best of times and Adobe xD is more complex, leading me to choose Figma, despite the webbased drawbacks it allows for easy manipulation and retesting. I think I'll probably end up with a combination of a map to explore with, a date slider, and possibly some kind of interactive picture display for certain locations.
+
+# **Part II - Requirements Specification**
+
+### **Functional - Purpose of the Application**
+The application will allow users to learn about the history of Gosford High School through both the big, overaching "big story" and smaller,  little facts about interesting students and events, or the "small story". The app should engage previous readers or interested students, as the book has been out of production for years.
+
+### **Functional  - Use Cases**
