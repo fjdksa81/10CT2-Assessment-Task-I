@@ -25,4 +25,17 @@ Feasability wise, Python has been overdone in my mind, and has poor user interfa
 ### **Functional - Purpose of the Application**
 The application will allow users to learn about the history of Gosford High School through both the big, overaching "big story" and smaller,  little facts about interesting students and events, or the "small story". The app should engage previous readers or interested students, as the book has been out of production for years.
 
-### **Functional  - Use Cases**
+### **Functional  - Use Cases** 
+
+1. On this day Function: Users will navigate through homepage, directly to the popup date on each new day, or through the short stories - on this day, and be able to read through a small paragraph about events from each day.
+2. Search by Faculty: Users will be able to search for stories by faculties, through homepage, short stories, filter by: and selecting the faculty of their choice in the dropdown menu.
+3. On Your Birthday: A user will be able to navigate to the button on the homescreen to input their birthday, which won't be stored, and any stories available for their birthday will show up in a scrollable row.
+4.  Random Story: A button on the sidedropdown menu will take users to a randomly selected story, from all articles and pages other than          
+
+### **Functional - Test Cases**
+
+1. The On This Day Function will be tested through peer review, with various dates available, and tested over a period of about a week, to ensure that the dates users are taken to are correct.
+2. Search by Faculty will be both peer and self tested, testing the navigation to, and how well catagorised, stories are.
+3. On your birthday will be easily peer testable, or self testable, inputting different birthdays and navigating to various displayed stories for each day.
+4. Random story will be user tested to ensure no stories repeat more often then others, and randomisation is accomplished.
+
