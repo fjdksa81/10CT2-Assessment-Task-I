@@ -39,3 +39,10 @@ The application will allow users to learn about the history of Gosford High Scho
 3. On your birthday will be easily peer testable, or self testable, inputting different birthdays and navigating to various displayed stories for each day.
 4. Random story will be user tested to ensure no stories repeat more often then others, and randomisation is accomplished.
 
+### **Non-Functional - Performance**
+
+The app will move quickly, with minimal (<1 second) loading times between different screens on the app, making the user journey streamlined and simple.
+
+### **Non-Functional - Usability**
+
+By using simple 
