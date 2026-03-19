@@ -46,3 +46,16 @@ The app will move quickly, with minimal (<1 second) loading times between differ
 ### **Non-Functional - Usability**
 
 By using simple 
+
+
+
+### **Existing UIs**
+
+| UI Name | Plus | Minus | Implication |
+| ------- | ---- | ----- | ----------- |
+|Google Doodles Colour Wheel| The colour selector wheel on google doodles provides an intersting eyegrabbing design, innovative way to explore previous google doodles. Simply animated, the wheel selects recent doodles that mainly feature that colour. | The Feature is, simply put, weird. It mainly shows older, less popular random doodles, and is often slightly confusing in its organisation.| Innovative designs like the colour wheel should be featured in my website, though the actual colour design itself seems rather useless, as the majority of original photos will be in black and white, unless manually colourised.           
+|||||
+|||||
+
+**Google Doodle Colour Wheel**
+![Google Doodle Colour Wheel](.\Images\googledoodle.png)
