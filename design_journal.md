@@ -54,8 +54,14 @@ By using simple
 | UI Name | Plus | Minus | Implication |
 | ------- | ---- | ----- | ----------- |
 |Google Doodles Colour Wheel| The colour selector wheel on google doodles provides an intersting eyegrabbing design, innovative way to explore previous google doodles. Simply animated, the wheel selects recent doodles that mainly feature that colour. | The Feature is, simply put, weird. It mainly shows older, less popular random doodles, and is often slightly confusing in its organisation.| Innovative designs like the colour wheel should be featured in my website, though the actual colour design itself seems rather useless, as the majority of original photos will be in black and white, unless manually colourised.           
-|||||
+|Wikipedia Main Page|The main pageon wikipedia provides a number of different, intersting option from which curiosity is provoked, the design has a number of different widgets from which links to articles are added.|The main page also lacks in the design catagory, and the minimalist choices do little to enhance user experience.|The|
 |||||
 
 **Google Doodle Colour Wheel**
 ![Google Doodle Colour Wheel](.\Images\googledoodle.png)
+
+**Wikipedia Main Page**
+![Wikipedia Homepage](.\Images\wiki_main.png)
+
+**Placeholder**
+![Placeholder Image](.\Images\placeholder.png)
