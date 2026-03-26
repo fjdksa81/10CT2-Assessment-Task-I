@@ -54,14 +54,14 @@ By using simple
 | UI Name | Plus | Minus | Implication |
 | ------- | ---- | ----- | ----------- |
 |Google Doodles Colour Wheel| The colour selector wheel on google doodles provides an intersting eyegrabbing design, innovative way to explore previous google doodles. Simply animated, the wheel selects recent doodles that mainly feature that colour. | The Feature is, simply put, weird. It mainly shows older, less popular random doodles, and is often slightly confusing in its organisation.| Innovative designs like the colour wheel should be featured in my website, though the actual colour design itself seems rather useless, as the majority of original photos will be in black and white, unless manually colourised.           
-|Wikipedia Main Page|The main pageon wikipedia provides a number of different, intersting option from which curiosity is provoked, the design has a number of different widgets from which links to articles are added.|The main page also lacks in the design catagory, and the minimalist choices do little to enhance user experience.|The|
-|||||
+|Wikipedia Main Page|The main pageon wikipedia provides a number of different, intersting option from which curiosity is provoked, the design has a number of different widgets from which links to articles are added.|The main page also lacks in the design catagory, and the minimalist choices do little to enhance user experience.|The wikipedia main pages provide the ability for users to be dragged into the experience with interesting hooks to pull in users, something like this is the user experience I want to provide to bring in users to my application, with improved user interface design, to look flashy.|
+|Gitbook Page|Gitbook is well designed for intuative movement bystudents of all ages, this is clear through the easy logos, and the sidebar can be easily maniulated for acces.|The design is boring, its minimalist design shows little character, and even less visual interest to a viewer.|The |
 
-**Google Doodle Colour Wheel**
-![Google Doodle Colour Wheel](.\Images\googledoodle.png)
+**Google Doodle Colour Wheel**  
+![Google Doodle Colour Wheel](.\Images\googledoodle.png)  
 
-**Wikipedia Main Page**
+**Wikipedia Main Page**  
 ![Wikipedia Homepage](.\Images\wiki_main.png)
 
-**Placeholder**
-![Placeholder Image](.\Images\placeholder.png)
+**Gitbook**  
+![Gitbook Page](.\Images\notplaceholder.png)
