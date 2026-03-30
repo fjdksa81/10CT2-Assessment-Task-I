@@ -73,3 +73,13 @@ By using simple
 
 **Gitbook**  
 ![Gitbook Page](.\Images\notplaceholder.png)
+
+## **Wireframes**
+**Wireframe 1**
+![Placeholder](.\Images\placeholder.png)
+
+**Wireframe 2**
+![Placeholder](.\Images\placeholder2.png)
+
+**Wireframe 3**
+![Gitbook Page](.\Images\placeholder3.mp4)
