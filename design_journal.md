@@ -45,7 +45,59 @@ The app will move quickly, with minimal (<1 second) loading times between differ
 
 ### **Non-Functional - Usability**
 
-By using simple 
+By using simple fonts, easy to navigate large buttons, and a consistant sidebar, the navigation and usability of the app can be improved.
+
+### **Non-Functional - Reliability**
+
+The app will be consistantly tested across different devices (desktop, mobile, laptop) or mockups of different devices, to thoroughly sweep and destroy any bugs in the prototypes.
+
+### **Non-Functional - Security**
+
+The only recorded personal data will be for a single use search, and not even saved in a variable. No personal data will be stored, and therefore security will not be an issue.
+
+# **Part III - Social, Ethical and Legal Issues**
+
+## **Social Impact**
+
+### **Social Impact - Target Audience Considerations**
+
+The target audience for the app, being mainly current and previous students, straddles a wide demographic from 12/13 year olds to elderly people. In order to compliment various levels of technological ability and vairous accessability issues that come from both ends of the age spectrum, it's important to consider and specifically target these issues, larger buttons, clearer fonts, and less on the screen makes the application more accessible easily.
+
+### **Social Impact - Potential Benefits**
+
+The app allows for further research into the history of the school, and could foster a sense of community and connection between alumni and current students. If public, it could also open up more possiblities to future students, streamlining study, and possiblity functioning as advertising, showing the impressive, storied history of the school.
+
+### **Social Impact - Potential Risks**
+
+The app is, by nature of being historical, susceptible to a change in attitudes over time, for example, a large divide between the schooling experiences of men and women was very present during the early years of the school, and racism was commonplace in the playground. These subjects need to be handled carefully and respectfully, but they cannot be forgotten, and to tell a full story of the school needs to include the bad.
+
+## **Ethical Responsibilities**
+
+### **Ethical Responsibilities - User Data and Privacy**
+
+The app will not collect user data, and will not store any user information, but privacy needs to be considered for the real people who's stories are told. Due to stories being taken directly from a published book, no further requests are needed, but real experiences need to be handled carefully, and written in a way that nobody is misrepresented.
+
+### **Ethical Responsibilities - Representation and Inclusion**
+
+The app, being based on a non-fiction historical book, needs to accurately represent the real groups who interacted with the school and it's story historically. Again, careful handling and writing is important on the contentside to ensure that nothing is left out where it could be important, to telling the story and painting a picture, but also to accurately representing the times and what really happened.
+
+### **Ethical Responsibilities - Content Sensitivity**
+
+With historical content, sensitive topics are bound to come up, the facts of life are difficult to easily represent, through, again, carefully writing and being sure to handle topics with care and respect, and by providing due warning for any sensitive topics through popups and labels, the level of sensitive content a user might come up with is limited by them, and allows for the individual user to chose their level of sensitivity.
+
+## **Legal Considerations**
+
+### **Legal Considerations - Copywrite and Intellectual Property**
+
+The majority of images used will either be from within the Department of Education, which won't require citing, being used by (technically) department of education software, or from public libraries, which will requiring citing. No individual works seem likely to be used, same with commercial assets. External crediting should be placed directly around the image, making clear exactly who produced what. Due to the creative goal of the project, only images with licensing agreements allowing creative use can be used.
+
+### **Legal Considerations - Terms of Use**
+
+# will do later i hate copywriting
+
+# **Part IV - Researching and Planning**
+
+### **Gantt Chart**
 
 
 
