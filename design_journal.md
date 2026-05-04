@@ -135,3 +135,15 @@ The majority of images used will either be from within the Department of Educati
 
 **Wireframe 3**
 ![Placeholder](.\Images\danny.mp4)
+
+# Fortnitely Check In 
+
+Part 1: Screenshots ![alt text](.\Images\week2endofweek.png)
+
+Part 2: These past two weeks I have nearly completed my theory aspect and have begun refining my figma prototype. Theory tasks like the one in the above screenshot have been completed to comply with the assessment task notification.
+
+Part 3: The most important decision I made in the past two weeks was deciding on using Figma for my development program, due to my existing knowledge and the ease of usage, I believe I made the correct decision.
+
+Part 4: My biggest difficulty these past two weeks was ensuring that my chosen program would work for my means. By carefully considering the pros and cons of adobe XD and figma, I figured out that figma fits the best for me.
+
+Part 5: My time management has 
