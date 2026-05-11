@@ -1,3 +1,4 @@
+
 # **10CT Task 1 - User Experience Design**
 ## *Charles McDonagh*
 
@@ -135,6 +136,14 @@ The majority of images used will either be from within the Department of Educati
 
 **Wireframe 3**
 ![Placeholder](.\Images\danny.mp4)
+
+
+# Prototype 1  feeedback:
+
+Home button unintuitive placement
+not enough stories
+weird jigglin
+
 
 # Fortnitely Check In 
 
