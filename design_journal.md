@@ -94,13 +94,14 @@ The majority of images used will either be from within the Department of Educati
 
 ### **Legal Considerations - Terms of Use**
 
-# will do later i hate copywriting
+The project would be protected under the usual suite of copywrite laws, even without the requirement to file anything as intellectual property. Though copied images would not be protected, and could only be copied with permission from the original authors. Otherwise, any reproduction would be protected, though various terms of use could be applied.
 
 # **Part IV - Researching and Planning**
 
 ### **Gantt Chart**
 
-
+**Google Doodle Colour Wheel**  
+![Google Doodle Colour Wheel](.\Images\gannettchart.png)  
 
 ### **Existing UIs**
 
@@ -115,8 +116,8 @@ The majority of images used will either be from within the Department of Educati
 | Software Option | Plus | Minus | Implication |
 | --------------- | ---- | ----- | ----------- |
 |Figma|Figma is a relatively simple design tool with easy to use prototyping tools, best for mobile or computer user experiences. Without any code, it is of a majority simpler to use then adobe XD, and I have more experience with it.|Figma is simple, but this works against it to, a number of techniques aren't possible in figma due to the web based nature of the software.|For this project, I will be using figma, mainly with thanks to my experience in the program, and my personal preference for a web based tool.|
-|Adobe XD|Adobe XD is the more complex, older brother of Figma, more complex, and withmore options, more can be done vgb|||
-|Unity||||
+|Adobe XD|Adobe XD is the more complex, older brother of Figma, more complex, and withmore options, more can be done, especially in terms of animations, graphic design and the portability of the design, with more options for scalable graphics.|Adobe XD is a much more difficult software then Figma, more is going on at all times and this makes it more overwhelming and less beginner friendly.|Though Adobe XD is a pwoerful software, I don't plan to use it for the simplicity of my usage. I don't have a need for something with great potential that will leave me with a mediocre result. SOmething with good potential for a good project works better.|
+|Unity|Unity is very capable of making UX that is intriguing and has almost limitless possiblity in terms of interactability.|Unity is also highly complex, somewhat code heavy and far from the easiest choice for this assessment task. It's not designed or built for the kind of User Experience the project is slated to be, and is generally unreasonable.|For the overwhelming negatives that unity will not be used, as its simply not useful without a great degree of work for the current scope of the project.|
 
 **Google Doodle Colour Wheel**  
 ![Google Doodle Colour Wheel](.\Images\googledoodle.png)  
@@ -128,26 +129,62 @@ The majority of images used will either be from within the Department of Educati
 ![Gitbook Page](.\Images\notplaceholder.png)
 
 ## **Wireframes**
-**Wireframe 1**
-![Placeholder](.\Images\placeholder.png)
+**Wireframe 1,2 and 3 (organised left to right, top to bottom)**
+![Placeholder](.\Images\finishedexcalidraw.png)
 
-**Wireframe 2**
-![Placeholder](.\Images\placeholder2.png)
+**Wireframe Feedback**
 
-**Wireframe 3**
-![Placeholder](.\Images\danny.mp4)
+Feedback from the wireframes poinst heavily at number 2 as being the most accessible and navigatable of the designs. Specific comments the cleaness and easy readability of the design. Consistantly ranked above the two others in the two axis of intuitiveness and navigatability. This clear superiority will influence my further designs and my prototype, with a simple basis for menus, the wireframe 2 has proven itself to be the best option. No issues with the best wireframe were brought up during this period of feedback. This should influence my further design decisions, and focusing on those high points of readability and cleanliness will be incorporated into my prototypes moving forward.
 
+# Sprint 1 Evaluation:
 
-# Prototype 1  feeedback:
+Feedback on the first sprint was taken through interviews and direct displays of the prototype to classmates, and a larger, though less thorough, in person survey.
 
-Home button unintuitive placement
-not enough stories
-weird jigglin
+1. The majority of feedback focuses on the jankiness of the animation, confusion as to which buttons function and which don't, and on the placement of the buttons themselves. Though all of these complaints are valid, they are mainly UI focused, and the user experience isn't heavily impacted, the main goal of the project. They are also all "surface" problems, and the main organisation of the webpage, and how it's placed, is not impacted.
 
+2. The prototype was cited as easy to use, and beside from the incomplete sections, that will be completed regardless of complaints, was simple and intuative to navigate through. Positive feedback was gained though the usage of simple UI features that are generally universal through other websites, adding to this ease of use and intuitive nature.#
 
-# Fortnitely Check In 
+3. The design choices made in this initial rough prototype all add, or at least do not detract from the user experience in the draft, and as a whole create a reasonably clear and simple experience. User needs have been reasonably addressed for an early draft, and despite lacking certain features, the base loop of finding something that interests and then reading about it was accomplished.
 
-Part 1: Screenshots ![alt text](.\Images\week2endofweek.png)
+4. Performance was excellent, no complaints were noticed by any feedback or by myself. Figma is very capable of handling this size of program with ease.
+
+5. Both the survey and direct interviews mainly pointed towards the same general trends; the general unpolished look reducing the looks, but a capable background and ease of use with the unfinished sections ignored. This points towards a very positive second and final prototype from my view.
+
+6. Improvement needs to be rendered heavily in terms of polish and increasing the scope of the project, with those two addressed the main criticisms brought up will be improved, and though a second evaluation will obviously be necessary the prototype should be a lot closer to a perfect version of itself.
+
+# Sprint 2 Evaluation
+
+Feedback on the second sprint was taken through direct interviews and then another in person survey, like the first.
+
+1. Feedback on the second sprint has been focused entirely on the polish. In order to fit as many features as expected into my timetable a lot of work was less then polished, misplaced entities and repeated images. Apart from these complaints, the other repeated complaint focused on the size of the side hamburger menu, much too wide comparative to everything else on the prototype. Though both of these are large complaints, and will require effort to fix, they are again surface level complaints, and are relatively simple to fix, if time consuming.
+
+2. Ease of use and intuitivity has only improved in terms of rating, with no more unfinished sections, the work on the second sprint has meant that at least one button from each array works, and this allows for simple user interactions.
+
+3. User needs have been suitably met by the design decisions made in the size increase, according to feedback no specific points have been pointed out where the loop of searching, reading and then becoming interested by something else is broken, successfully filling the need for information about the school. In addition with the ability to search and filter searches, more has been added to the searching loop.
+
+4. Despite an increase threefold in the number of pages and an increase roughly tenfold in connections and animations, Figma has continued to handle the workload without any performance issued noted by myself or feedback.
+
+5. Survey and interview data this time seperated, with a large number of complaints pointed out in direct interviews, but a trend towards improvement in the quantitative survey data. This generally lines up with the hypothesis that the majority of spotted issues, despite being issues, are surface level and don't impact the most important questions of accessability, usabiity and the actual background of the prototype.
+
+6. Improvement in the next and final sprint should be focused on the largest area of complaint, that being the polish of the project, as all other subjects are at their acceptable levels, and are considered of high enough quality for the main userbase already.
+
+# Final Evaluation
+
+1. I believe the project meets and accomplishes all of the outlined functional requirements. With searching available by calandar day, year, randomly selected featured stories, the use cases are accomplished. The other non-functional requirements, performance is speedy, and accessability is achieved through large buttons and large font for the alumni userbase throughout their lifespan. Finally, security is a non-issue, without any data processed or stored, no security beyond keeping the prototype secure (handled through Figma) is accomplished too. It therefore meets the stated purpose as a way to teach people about the subject matter of my book, and therefore the history of Gosford High School.
+
+2. Through design choices, I feel I have properly developed my application to suit the needs of my interest groups, those being Gosford High Students and Alumni of any age, including the elderly. To accomplish this I have designed the program in Figma, with large images and scalable graphics for zooming in, and generally large buttons and text for the less technologically minded. In addition, the goals outlined in my design brief, and the general flow of the prototype has been achieved, finishing and accomplishing the Design Brief's goals.
+
+3. The societal, ethical and legal responsibilites I uphold through my project have been properly addressed where required, and despite the historical nature of the topic, in any small amount of writing I have done, I have been mindful to look from a modern perspective, when it's applicable. Ethically and in tandem, legally, I have ensured that any images I've used have full permission to publish, and if I were to go to publish the work properly I would have to add citations to all images.
+
+4. I believe I handled my time properly during the task, even if class time was not used entirely optimally, I kept myself on track using time at home to plug up what was missed, and holding myself to proper milestones and timelines. This allowed me to enjoy my time in class and complete all work to the proper standard.
+
+5. I believe, through in person interviews and other methods, I properly found and used user and tester feedback, often following the user feedback as a checklist for the progressive development of each sprint,and balancing as best I could the needs of the user and the initial vision for the application.
+
+# Fortnitely Check Ins
+
+## Weeks 1 and 2
+
+Part 1: Screenshots ![example 2](.\Images\week2endofweek.png)
 
 Part 2: These past two weeks I have nearly completed my theory aspect and have begun refining my figma prototype. Theory tasks like the one in the above screenshot have been completed to comply with the assessment task notification.
 
@@ -155,4 +192,20 @@ Part 3: The most important decision I made in the past two weeks was deciding on
 
 Part 4: My biggest difficulty these past two weeks was ensuring that my chosen program would work for my means. By carefully considering the pros and cons of adobe XD and figma, I figured out that figma fits the best for me.
 
-Part 5: My time management has 
+Part 5: My time management has been relatively good this past fortnight and my strategy of slowly but carefully moving forward has enabled me to create what I believe to be quality while staying on track with my program goals.
+
+Part 6: For this next working fortnight (excluding week 4 in Tasmania) I plan to finish my sprints, and evaluate them fully, finishing this project and allowing for submission entirely complete and on time, without the need for short term rushing like some other students might.
+
+## Weeks 3 and 5
+
+Part 1: Screenshots ![example 1](.\Images\week5endofweekexample1.png) ![example 2](.\Images\week5endofweekexample2.png)
+
+Part 2: In these past two working weeks I have completed my final prototype, fully animated it and finished my theory work, completing the project. 
+
+Part 3: This fortnight, my most important decisions focused on my priorities, during my early prototypes, I had to chose which pages to first develop, for the best development timeline and for quick feedback. By developing a number of frames of each type of page first, I was able to create a simple pattern from which more could be created. I believe I made the correct choice in this situation.
+
+Part 4: My biggest difficulty this past fortnight working was the large hole in my development timeline caused by the TASmania trip. Very enjoyable and a memory I won't forget, it did cause me to forget a great deal of what I was working on, and some time was lost reconfiguring myself with my development environments.
+
+Part 5: This past fortnight my time management has been capable and I believe it has been of high quality. Despite the break all of my goals have been accomplished and no extreme stress has been placed on me.
+
+Part 6: Relax.
